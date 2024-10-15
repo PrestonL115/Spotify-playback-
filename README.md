@@ -9,6 +9,6 @@ Follow these steps:
 2. Log in
 3. On dashboard create app
 4. Enter "http://localhost:8080/callback/" on the "Redirect URIs" section , the title and description can be whatever
-5. Find Cient and Secret ID in your app
+5. Find Client and Secret ID in your app
 6. Enter both of those IDs into the code
 7. Run code
